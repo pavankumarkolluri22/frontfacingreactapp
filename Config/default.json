@@ -1,0 +1,3 @@
+{
+  "mongoURI": "mongodb+srv://pavan_wr:pavan_wr@mernconnecter-4gkdn.mongodb.net/test?retryWrites=true&w=majority"
+}
